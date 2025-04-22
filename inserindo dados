@@ -1,0 +1,10 @@
+insert into alunos_pvi (id_aluno, mat_aluno, nome_aluno, email_aluno, serie, curso, ativo) values
+(null, 2025017, 'Amanda Gomes Santos', 'alunopvi@gmail.com', 3, 1, 1),
+(null, 2025020, 'Beatriz Martins Carneiro', 'alunopvi@gmail.com', 1, 1, 1),
+(null, 2025030, 'Luiza Rabelo Miranda', 'alunopvi@gmail.com', 1, 1, 0),
+(null, 2025018, 'Ana Sophia Barroso Freitas',' alunopvi@gmail.com', 2, 1, 1),
+(null, 2025014, 'Luiza Nunes Dos Santos', 'alunopvi@gmail.com', 2, 1, 1),
+(null, 2025019, 'Anthony Gabriel Da Silva Barbosa', 'alunopvi@gmail.com', 3, 1, 1),
+(null, 2025011, 'Bruna Aparecida Torres Dos Santos', 'alunopvi@gmail.com', 2, 1, 0),
+(null, 2025045, 'Claudia Thamires Nunes Pereira Da Silva', 'alunopvi@gmail.com', 1, 1, 0),
+(null, 2025030, 'Davi Joshua De Lima Gomes', 'alunopvi@gmail.com', 1, 2, 1);
