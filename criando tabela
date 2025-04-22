@@ -1,0 +1,8 @@
+create table alunos_pvi(
+    id int not null auto_increment primary key,
+    mat_alunos int not null,
+    nome_aluno varchar100 not null,
+    email_aluno varchar100 not null,
+    serie int not null,
+    ativo int not null,
+    curso  int not null);
